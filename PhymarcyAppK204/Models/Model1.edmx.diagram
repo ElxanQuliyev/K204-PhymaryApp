@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e81d0ebb150043eeb98ba7b8fdc7e1a0" Name="Diagram1">
+        <EntityTypeShape EntityType="PhymarcyDBK204Model.Admin" Width="1.5" PointX="5.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PhymarcyDBK204Model.Firm" Width="1.5" PointX="0.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PhymarcyDBK204Model.Medicine" Width="1.5" PointX="0.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PhymarcyDBK204Model.Medicine_To_Firms" Width="1.5" PointX="3" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PhymarcyDBK204Model.Medicines_To_Tags" Width="1.5" PointX="3" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PhymarcyDBK204Model.Order" Width="1.5" PointX="3" PointY="7.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PhymarcyDBK204Model.Tag" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PhymarcyDBK204Model.Worker" Width="1.5" PointX="0.75" PointY="11.5" IsExpanded="true" />
+        <AssociationConnector Association="PhymarcyDBK204Model.FK_Medicine_To_Firms_Firms" ManuallyRouted="false" />
+        <AssociationConnector Association="PhymarcyDBK204Model.FK_Medicine_To_Firms_Medicine" ManuallyRouted="false" />
+        <AssociationConnector Association="PhymarcyDBK204Model.FK_Medicines_To_Tags_Medicine" ManuallyRouted="false" />
+        <AssociationConnector Association="PhymarcyDBK204Model.FK_Orders_Medicine" ManuallyRouted="false" />
+        <AssociationConnector Association="PhymarcyDBK204Model.FK_Medicines_To_Tags_Tags" ManuallyRouted="false" />
+        <AssociationConnector Association="PhymarcyDBK204Model.FK_Orders_Workers" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,16 @@
+C:\Users\Elxan\source\repos\PhymarcyAppK204\PhymarcyAppK204\bin\Debug\PhymarcyAppK204.exe.config
+C:\Users\Elxan\source\repos\PhymarcyAppK204\PhymarcyAppK204\bin\Debug\PhymarcyAppK204.exe
+C:\Users\Elxan\source\repos\PhymarcyAppK204\PhymarcyAppK204\bin\Debug\PhymarcyAppK204.pdb
+C:\Users\Elxan\source\repos\PhymarcyAppK204\PhymarcyAppK204\obj\Debug\PhymarcyAppK204.csprojAssemblyReference.cache
+C:\Users\Elxan\source\repos\PhymarcyAppK204\PhymarcyAppK204\obj\Debug\PhymarcyAppK204.Form1.resources
+C:\Users\Elxan\source\repos\PhymarcyAppK204\PhymarcyAppK204\obj\Debug\PhymarcyAppK204.Properties.Resources.resources
+C:\Users\Elxan\source\repos\PhymarcyAppK204\PhymarcyAppK204\obj\Debug\PhymarcyAppK204.csproj.GenerateResource.cache
+C:\Users\Elxan\source\repos\PhymarcyAppK204\PhymarcyAppK204\obj\Debug\PhymarcyAppK204.csproj.CoreCompileInputs.cache
+C:\Users\Elxan\source\repos\PhymarcyAppK204\PhymarcyAppK204\obj\Debug\PhymarcyAppK204.exe
+C:\Users\Elxan\source\repos\PhymarcyAppK204\PhymarcyAppK204\obj\Debug\PhymarcyAppK204.pdb
+C:\Users\Elxan\source\repos\PhymarcyAppK204\PhymarcyAppK204\obj\Debug\PhymarcyAppK204.AllForms.AddMedicineForm.resources
+C:\Users\Elxan\source\repos\PhymarcyAppK204\PhymarcyAppK204\bin\Debug\EntityFramework.dll
+C:\Users\Elxan\source\repos\PhymarcyAppK204\PhymarcyAppK204\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Elxan\source\repos\PhymarcyAppK204\PhymarcyAppK204\bin\Debug\EntityFramework.xml
+C:\Users\Elxan\source\repos\PhymarcyAppK204\PhymarcyAppK204\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Elxan\source\repos\PhymarcyAppK204\PhymarcyAppK204\obj\Debug\PhymarcyAppK204.csproj.CopyComplete
